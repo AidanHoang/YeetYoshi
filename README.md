@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Java
 
 - 👯 I’m looking to collaborate on Hackathons
-- 🤔 I’m looking for help with Java an C# Fundamentals
+- 🤔 I’m looking for help with Java and C# Fundamentals
 
 - 💬 Ask me about coding questions
 - 📫 How to reach me: yeetyoshibusiness@gmail.com
